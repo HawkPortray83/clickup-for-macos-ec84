@@ -1,4 +1,4 @@
-#  
+#  Enhance ClickUp for macOS with ClickUp for macOS custom Utility - quick search and calendar integration, the #1 utility. Includes quick search and calendar integration for a
 
 
 
